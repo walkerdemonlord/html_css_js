@@ -1,0 +1,44 @@
+
+
+.titulo-centralizado {
+    text-align: center; /* Centraliza o título */
+    margin-top: 10px; /* Define a margem superior do título */
+    margin-bottom: 30px; /* Define a margem inferior do título */
+    margin-right: 20px; /* Define a margem direita do título */
+}
+
+.justificado-com-espaco {
+    text-align: justify; /* Justifica o texto */
+    text-indent: 20px; /* Adiciona espaço apenas na primeira linha */
+    margin-top: 10px; /* Define a margem superior do parágrafo */
+    margin-bottom: 20px; /* Define a margem inferior do parágrafo */
+    margin-right: 20px; /* Define a margem direita do parágrafo */
+}
+
+.imagem-centralizada {
+    display: block; /* Permite definir margens automáticas */
+    margin-left: auto; /* Define margem à esquerda como automática */
+    margin-right: auto; /* Define margem à direita como automática */
+}
+
+
+body {
+
+    background-color: black;
+    color: green;
+    margin: 20px;
+
+}
+
+
+h1 {
+
+    color: red
+
+}
+
+p {
+
+    color: green;
+
+}
